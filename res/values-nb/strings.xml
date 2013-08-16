@@ -26,5 +26,5 @@
     <string name="setting_add_widget">Legg til widget</string>
 
     <string name="not_torch_title">Lommelykt på</string>
-    <string name="not_torch_summary">Lommelykten er på</string>
+    <string name="not_torch_toggle">Skru av lommelykten</string>
 </resources>
